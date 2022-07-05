@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PasswordGenerator</string>
+    <string name="l_nge_p_adgangs_koden">Længe på adgangs koden:</string>
+    <string name="bogstaver_aa">Bogstaver (Aa)</string>
+    <string name="tal_123">Tal (123)</string>
+    <string name="generer_adgangskode">Generer adgangskode</string>
+    <string name="password_l_ngde">Password længde</string>
+    <string name="password_forslag">Password forslag:</string>
+</resources>
